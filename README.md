@@ -1,5 +1,5 @@
 # Render3d
-Um pequeno projeto que fiz no primeiro ano do ensino medio  //  A little project i did in my the first year of high school
+Um pequeno projeto que fiz no primeiro ano do ensino medio  //  A little project i did in my first year of high school
 
 it is a very very very unoptimized render whith absolutely no compatibility with another screens resolutions, and the code is very disorganized.
 
